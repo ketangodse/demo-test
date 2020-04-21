@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingApp", "LoggingApp\LoggingApp.csproj", "{881FA684-5F59-4211-9558-E46F4D4C5737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingApp", "LoggingApp\LoggingApp.csproj", "{881FA684-5F59-4211-9558-E46F4D4C5737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingApp.Log", "LoggingApp.Log\LoggingApp.Log.csproj", "{BD3DF6C6-EC43-4FDB-A7CC-BD202D1FD15A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingApp.Log", "LoggingApp.Log\LoggingApp.Log.csproj", "{BD3DF6C6-EC43-4FDB-A7CC-BD202D1FD15A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEngine", "TestEngine\TestEngine.csproj", "{E7157105-E2DC-485A-BFAB-5D66856F3E14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BD3DF6C6-EC43-4FDB-A7CC-BD202D1FD15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD3DF6C6-EC43-4FDB-A7CC-BD202D1FD15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD3DF6C6-EC43-4FDB-A7CC-BD202D1FD15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7157105-E2DC-485A-BFAB-5D66856F3E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7157105-E2DC-485A-BFAB-5D66856F3E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7157105-E2DC-485A-BFAB-5D66856F3E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7157105-E2DC-485A-BFAB-5D66856F3E14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

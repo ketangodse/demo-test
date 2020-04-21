@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="json1.json" />
+    <None Remove="libAdditionalSimComp.so" />
+    <None Remove="libAnalyticDesigns.so" />
+    <None Remove="libInfoBasedDesign.so" />
+    <None Remove="libInfobasedIM.so" />
+    <None Remove="libMCPAnalysis.so" />
+    <None Remove="libMiscellaneous.so" />
+    <None Remove="libSimulations.so" />
+    <None Remove="libtopsimengwrapper.so" />
+    <None Remove="libVirtualPopulation.so" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="json1.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libAdditionalSimComp.so">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libAnalyticDesigns.so">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libInfoBasedDesign.so">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libInfobasedIM.so">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libMCPAnalysis.so">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libMiscellaneous.so">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libSimulations.so">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libtopsimengwrapper.so">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libVirtualPopulation.so">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
