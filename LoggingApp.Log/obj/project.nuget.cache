@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7BrpnOmDIRQfra3IMiHc2mLGc8lVVr6b68xhI/y+soc/1q1zFBKcTjpGFvfmYU9qlzop8O8J87KYwS1OTqpj0w==",
+  "dgSpecHash": "gGA62Zxka0F06QNc/OjMJ3+oP1iIhnoIZID4vf+ls4iY15mwolvs0rqhvdBa30pDXpC4LfuggsqYNhe1SMml1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\LoggingApp.Log\\LoggingApp.Log.csproj",
+  "projectFilePath": "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\demo-test\\LoggingApp.Log\\LoggingApp.Log.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ketan.Godse\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\Ketan.Godse\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",

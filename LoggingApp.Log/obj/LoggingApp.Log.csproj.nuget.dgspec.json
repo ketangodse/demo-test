@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\LoggingApp.Log\\LoggingApp.Log.csproj": {}
+    "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\demo-test\\LoggingApp.Log\\LoggingApp.Log.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\LoggingApp.Log\\LoggingApp.Log.csproj": {
+    "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\demo-test\\LoggingApp.Log\\LoggingApp.Log.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\LoggingApp.Log\\LoggingApp.Log.csproj",
+        "projectUniqueName": "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\demo-test\\LoggingApp.Log\\LoggingApp.Log.csproj",
         "projectName": "LoggingApp.Log",
-        "projectPath": "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\LoggingApp.Log\\LoggingApp.Log.csproj",
+        "projectPath": "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\demo-test\\LoggingApp.Log\\LoggingApp.Log.csproj",
         "packagesPath": "C:\\Users\\Ketan.Godse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\LoggingApp.Log\\obj\\",
+        "outputPath": "C:\\Users\\Ketan.Godse\\source\\repos\\LoggingApp\\demo-test\\LoggingApp.Log\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
