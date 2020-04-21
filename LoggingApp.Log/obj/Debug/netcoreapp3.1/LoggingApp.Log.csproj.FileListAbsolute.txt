@@ -1,0 +1,10 @@
+C:\Users\Ketan.Godse\source\repos\LoggingApp\LoggingApp.Log\bin\Debug\netcoreapp3.1\LoggingApp.Log.deps.json
+C:\Users\Ketan.Godse\source\repos\LoggingApp\LoggingApp.Log\bin\Debug\netcoreapp3.1\LoggingApp.Log.dll
+C:\Users\Ketan.Godse\source\repos\LoggingApp\LoggingApp.Log\obj\Debug\netcoreapp3.1\LoggingApp.Log.csprojAssemblyReference.cache
+C:\Users\Ketan.Godse\source\repos\LoggingApp\LoggingApp.Log\obj\Debug\netcoreapp3.1\LoggingApp.Log.AssemblyInfoInputs.cache
+C:\Users\Ketan.Godse\source\repos\LoggingApp\LoggingApp.Log\obj\Debug\netcoreapp3.1\LoggingApp.Log.AssemblyInfo.cs
+C:\Users\Ketan.Godse\source\repos\LoggingApp\LoggingApp.Log\bin\Debug\netcoreapp3.1\LoggingApp.Log.pdb
+C:\Users\Ketan.Godse\source\repos\LoggingApp\LoggingApp.Log\obj\Debug\netcoreapp3.1\LoggingApp.Log.dll
+C:\Users\Ketan.Godse\source\repos\LoggingApp\LoggingApp.Log\obj\Debug\netcoreapp3.1\LoggingApp.Log.pdb
+C:\Users\Ketan.Godse\source\repos\LoggingApp\LoggingApp.Log\bin\Debug\netcoreapp3.1\json1.json
+C:\Users\Ketan.Godse\source\repos\LoggingApp\LoggingApp.Log\obj\Debug\netcoreapp3.1\LoggingApp.Log.csproj.CoreCompileInputs.cache
